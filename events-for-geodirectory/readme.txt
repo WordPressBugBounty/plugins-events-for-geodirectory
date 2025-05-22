@@ -5,7 +5,7 @@ Donate link: https://wpgeodirectory.com
 Requires at least: 5.0
 Tested up to: 6.8
 Requires PHP: 7.2
-Stable tag: 2.3.18
+Stable tag: 2.3.19
 License: GPLv3
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
@@ -69,6 +69,9 @@ Get your hands on all the Events Calendar for GeoDirectory premium add-ons and t
 3. Go to WordPress Admin -> Events -> Settings and customize behaviour as needed
 
 == Changelog ==
+
+= 2.3.19 - 2025-05-22 =
+* Event Calendar previous month action is not working - FIXED
 
 = 2.3.18 - 2025-04-17 =
 * WordPress v6.8 compatibility check - CHANGED
