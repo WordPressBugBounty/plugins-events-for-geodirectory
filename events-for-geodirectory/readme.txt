@@ -5,7 +5,7 @@ Donate link: https://wpgeodirectory.com
 Requires at least: 5.0
 Tested up to: 6.8
 Requires PHP: 7.2
-Stable tag: 2.3.21
+Stable tag: 2.3.22
 License: GPLv3
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
@@ -69,6 +69,10 @@ Get your hands on all the Events Calendar for GeoDirectory premium add-ons and t
 3. Go to WordPress Admin -> Events -> Settings and customize behaviour as needed
 
 == Changelog ==
+
+= 2.3.22 - 2025-08-07 =
+* Conflicts with TGM_Plugin_Activation class - FIXED
+* GD > Tags always shows count zero for events - FIXED
 
 = 2.3.21 - 2025-07-31 =
 * Show single events in search autocompleter results - CHANGED
