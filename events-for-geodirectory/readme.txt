@@ -5,7 +5,7 @@ Donate link: https://wpgeodirectory.com
 Requires at least: 6.0
 Tested up to: 7.0
 Requires PHP: 7.2
-Stable tag: 2.3.29
+Stable tag: 2.3.30
 License: GPLv3
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
@@ -69,6 +69,9 @@ Get your hands on all the Events Calendar for GeoDirectory premium add-ons and t
 3. Go to WordPress Admin -> Events -> Settings and customize behaviour as needed
 
 == Changelog ==
+
+= 2.3.30 - 2026-06-04 =
+* Interested/Going buttons not visible on ongoing event with past start date - FIXED
 
 = 2.3.29 - 2026-05-16 =
 * Better sanitation for AYI Widget - FIXED/SECURITY
