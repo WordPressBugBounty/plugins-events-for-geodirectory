@@ -3,9 +3,9 @@ Contributors: stiofansisland, paoltaia, ayecode
 Tags: events, calendar, event, schedule, organizer, geodirectory, event listings, events directory, event manager, events calendar
 Donate link: https://wpgeodirectory.com
 Requires at least: 6.0
-Tested up to: 7.0
+Tested up to: 7.1
 Requires PHP: 7.2
-Stable tag: 2.3.31
+Stable tag: 2.3.32
 License: GPLv3
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
@@ -62,6 +62,9 @@ The Events Calendar for GeoDirectory is a full-featured Events Locator too. Even
 Get your hands on all the Events Calendar for GeoDirectory premium add-ons and themes. Sign up at [wpgeodirectory.com](https://wpgeodirectory.com/downloads/membership/ "Get GeoDirectory membership.").
 
 
+== Security ==
+To report a security vulnerability, please review our [vulnerability disclosure policy](https://ayecode.io/vulnerability-disclosure-policy/).
+
 == Installation ==
 
 1. Upload 'events-for-geodirectory' directory to the '/wp-content/plugins/' directory
@@ -69,6 +72,9 @@ Get your hands on all the Events Calendar for GeoDirectory premium add-ons and t
 3. Go to WordPress Admin -> Events -> Settings and customize behaviour as needed
 
 == Changelog ==
+
+= 2.3.32 - 2026-09-02 =
+* Vulnerability Disclosure Policy (VDP) changes in the readme file - ADDED
 
 = 2.3.31 - 2026-07-08 =
 * Added option for 'last week' days in monthly recurring - ADDED
